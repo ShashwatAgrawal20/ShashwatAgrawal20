@@ -18,5 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shashwatagrawal20&show_icons=true&locale=en&layout=compact" alt="shashwatagrawal20" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shashwatagrawal20&" alt="shashwatagrawal20" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shashwatagrawal20&show_icons=true&locale=en" alt="shashwatagrawal20" /></p>
 
