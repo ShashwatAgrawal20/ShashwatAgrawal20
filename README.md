@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Shashwat Agrawal</h1>
-<h3 align="center">A passionate developer & Ethical hacker</h3>
+<h3 align="center">Full-Stack Web Developer | DevOps & Server Enthusiast | Linux Enthusiast | Cyber Security Enthusiast | Open-Source Contributor</h3>
 
-- 🔭 I’m currently working on **Rising my Linux**
-
-- 🌱 I’m currently learning **Window managers, Linux, etc...**
-
-- 📝 I regularly write articles on [https://www.letsconfigure.xyz/](https://www.letsconfigure.xyz/)
+<p align="center"> 
+Hello and welcome to my GitHub! As a skilled Full-Stack Web Developer with a passion for open-source technology, cybersecurity, and DevOps, I am constantly pushing the boundaries of what's possible in the tech industry. With a deep understanding of Linux administration, scripting, and server management, I am always seeking to expand my knowledge and skills to deliver the best possible results on every project. Whether it's contributing to the open-source community, working on complex web applications, or exploring new technologies, I approach every challenge with dedication, creativity, and an unwavering commitment to excellence. I am excited to share my journey with you and to collaborate with other like-minded professionals who share my passion for innovation and quality. Thanks for taking the time to learn more about me, and I look forward to connecting with you soon!
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://medium.com/@shashwat_agrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shashwat_agrawal" height="30" width="40" /></a>
 <a href="/https://www.letsconfigure.xyz/feeds/posts/default" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://www.letsconfigure.xyz/feeds/posts/default" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/theshashwatagrawal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="theshashwatagrawal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/shashwatagrawal6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shashwatagrawal6" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
